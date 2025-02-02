@@ -1,1 +1,1 @@
-"Python practice from Boot.Dev" 
+# Python practice from Boot.Dev
